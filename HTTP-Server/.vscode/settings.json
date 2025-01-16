@@ -1,0 +1,14 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "java.referencesCodeLens.enabled": true,
+  "java.completion.favoriteStaticMembers": [
+    "java.lang.Math.*",
+    "java.util.Objects.requireNonNull",
+    "java.util.stream.Collectors.*"
+  ],
+  "java.completion.importOrder": ["java", "javax", "com", "org"],
+  "java.format.settings.url": "./eclipse-java-google-style.xml",
+  "java.format.settings.profile": "GoogleStyle"
+}
